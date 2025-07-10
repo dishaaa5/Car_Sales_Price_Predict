@@ -23,3 +23,11 @@ The model is trained using:
 ```bash
 git clone https://github.com/your-username/car-price-prediction.git
 cd car-price-prediction
+```
+
+
+## 👩‍💻 Author
+
+dishaaa5/https://github.com/dishaaa5
+
+
