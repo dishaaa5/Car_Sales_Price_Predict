@@ -27,7 +27,6 @@ cd car-price-prediction
 
 
 ## 👩‍💻 Author
-
-dishaaa5/https://github.com/dishaaa5
+Disha / https://github.com/dishaaa5
 
 
